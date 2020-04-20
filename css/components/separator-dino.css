@@ -14,6 +14,10 @@
     margin-top: var(--gap-medium);
 }
 
+.separator-dino.-all{
+
+}
+
 .separator-dino::before,
 .separator-dino::after {
     content: '';
